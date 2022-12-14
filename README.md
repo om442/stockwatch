@@ -1,6 +1,6 @@
 # Stock Watch
 
-Stock Watch is a mobile application for searching new stocks, viewing their details, and adding your favorite stocks to a saved list for future tracking. Built using the Flutter framework and powered by the Finnhub Stock API, this application transmit realtime stock information while maintaining a consistent, platform-agnostic experience.
+Stock Watch is a mobile application for searching new stocks, viewing their details, and adding your favorite stocks to a saved list for future tracking. Built using the Flutter framework and powered by the Finnhub Stock API, this application transmits realtime stock information while maintaining a consistent, platform-agnostic experience.
 
 ## Getting Started
 
