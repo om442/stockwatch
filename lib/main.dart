@@ -8,9 +8,6 @@ import 'company_profile.dart';
 import 'stock_search.dart';
 import 'stock_profile_pg.dart';
 
-// https://finnhub.io/api/v1/stock/profile2?symbol=AAPL&token=c9gvchqad3iblo2foslg # Search for company details
-// https://finnhub.io/api/v1/search?q=apple&token=c9gvchqad3iblo2foslg # Search for companies with query
-
 StreamController<String> streamController = StreamController<String>();
 List<String> foundCompanies = [];
 
